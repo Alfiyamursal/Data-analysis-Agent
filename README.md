@@ -34,4 +34,4 @@ streamlit run app.py
 You can use any CSV dataset (e.g., Titanic dataset from Kaggle).
 
 ## Author
-Your Name
+Alfiya Mursal
